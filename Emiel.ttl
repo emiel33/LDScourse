@@ -1,0 +1,13 @@
+@prefix schema: <http://schema.org/> .
+@prefix ex: <https://example.org/> .
+
+ex:emiel
+    a schema:Person ;
+    schema:name "Emiel" ;
+    schema:affiliation ex:PwC;
+    schema:alumniOf ex:KuL;
+    schema:jobTitle "consultant";
+    schema:course <https://pietercolpaert.be/teaching/lds/#2024-2025> ;
+    schema:email "emiel.dhondt33@gmail.com" .
+
+
