@@ -12,6 +12,6 @@ ed:me
     foaf:knows <https://pieterheyvaert.com/#me> ;
     foaf:knows <https://pietercolpaert.be/#me> ;
     foaf:knows <https://thib.goelff.be/me.ttl#me> ;
-    foaf:knows <https://lurivasm.github.io/rdf-data/me.ttl> .
+    foaf:knows <https://lurivasm.github.io/rdf-data/me.ttl#me> .
 
 
