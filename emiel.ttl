@@ -8,6 +8,10 @@ ed:me
     schema:alumniOf ex:KuL;
     schema:jobTitle "consultant";
     schema:course <https://pietercolpaert.be/teaching/lds/#2024-2025> ;
-    schema:email "emiel.dhondt33@gmail.com" .
+    schema:email "emiel.dhondt33@gmail.com";
+    foaf:knows <https://pieterheyvaert.com/#me> ;
+    foaf:knows <https://pietercolpaert.be/#me> ;
+    foaf:knows <https://thib.goelff.be/me.ttl#me> ;
+    foaf:knows <https://lurivasm.github.io/rdf-data/me.ttl> .
 
 
