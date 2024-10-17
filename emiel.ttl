@@ -1,12 +1,13 @@
 @prefix schema: <http://schema.org/> .
 @prefix ed: <https://emiel33.github.io/LDScourse/emiel.ttl#> .
 @prefix ex: <https://example.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 ed:me
     a schema:Person ;
     schema:name "Emiel" ;
-    schema:affiliation ex:PwC;
-    schema:alumniOf ex:KuL;
+    schema:affiliation <https://www.pwc.be/> ;
+    schema:alumniOf <https://www.kuleuven.be/kuleuven>;
     schema:jobTitle "consultant";
     schema:course <https://pietercolpaert.be/teaching/lds/#2024-2025> ;
     schema:email "emiel.dhondt33@gmail.com";
