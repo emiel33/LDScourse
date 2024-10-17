@@ -1,7 +1,7 @@
 @prefix schema: <http://schema.org/> .
-@prefix ex: <https://example.org/> .
+@prefix ed: <https://emiel33.github.io/LDScourse/emiel#> .
 
-ex:emiel
+ed:me
     a schema:Person ;
     schema:name "Emiel" ;
     schema:affiliation ex:PwC;
