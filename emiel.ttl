@@ -1,5 +1,5 @@
 @prefix schema: <http://schema.org/> .
-@prefix ed: <https://emiel33.github.io/LDScourse/emiel#> .
+@prefix ed: <https://emiel33.github.io/LDScourse/emiel.ttl#> .
 
 ed:me
     a schema:Person ;
