@@ -6,9 +6,15 @@
 ed:me
     a schema:Person ;
     schema:name "Emiel" ;
-    schema:affiliation <https://www.pwc.be/> ;
+    schema:additionalName "Andreas";
+    schema:additionalName "Arthur";
+    schema:familyName "Dhondt" ;
+    schema:award "JON 2014" ;
+    schema:worksFor <https://www.pwc.be/> ;
+    schema:affiliation <https://midzomer.be/> ;
     schema:alumniOf <https://www.kuleuven.be/kuleuven>;
     schema:jobTitle "consultant";
+    schema:jobTitle "board member";
     schema:course <https://pietercolpaert.be/teaching/lds/#2024-2025> ;
     schema:email "emiel.dhondt33@gmail.com";
     foaf:knows <https://pieterheyvaert.com/#me> ;
