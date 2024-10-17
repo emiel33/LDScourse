@@ -1,0 +1,12 @@
+[{"@id":"http://schema.org/Person"},
+{"@id":"https://example.org/KuL"},
+{"@id":"https://example.org/PwC"},
+{"@id":"https://example.org/emiel",
+"@type":["http://schema.org/Person"],
+"http://schema.org/name":[{"@value":"Emiel"}],
+"http://schema.org/affiliation":[{"@id":"https://example.org/PwC"}],
+"http://schema.org/alumniOf":[{"@id":"https://example.org/KuL"}],
+"http://schema.org/jobTitle":[{"@value":"consultant"}],
+"http://schema.org/course":[{"@id":"https://pietercolpaert.be/teaching/lds/#2024-2025"}],
+"http://schema.org/email":[{"@value":"emiel.dhondt33@gmail.com"}]},
+{"@id":"https://pietercolpaert.be/teaching/lds/#2024-2025"}]
