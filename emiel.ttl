@@ -10,11 +10,14 @@ ed:me
     schema:additionalName "Arthur";
     schema:familyName "Dhondt" ;
     schema:award "JON 2014" ;
-    schema:worksFor <https://www.pwc.be/> ;
-    schema:affiliation <https://midzomer.be/> ;
+    schema:affiliation <https://www.pwc.be/> ;
+    schema:memberOf <https://midzomer.be/> ;
+    schema:worksfor <https://www.vlaanderen.be/digitaal-vlaanderen>;
+    schema:worksfor <https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/digital-services_en>;
     schema:alumniOf <https://www.kuleuven.be/kuleuven>;
     schema:jobTitle "consultant";
     schema:jobTitle "board member";
+    schema:jobTitle "ontwikelaar datawarehouse";
     schema:course <https://pietercolpaert.be/teaching/lds/#2024-2025> ;
     schema:email "emiel.dhondt33@gmail.com";
     foaf:knows <https://pieterheyvaert.com/#me> ;
